@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Erin 👋
 
-<!--
-**erin-yl/erin-yl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 💡
 
-Here are some ideas to get you started:
+I'm a UX Engineer/Designer specializing in designing self-service support platforms for enterprise products. I’ve also been exploring IDE extension development to build AI-powered help tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on:
+- Creating intuitive user experiences
+- Streamlining complex workflows
+- Engaging customers through thoughtful design
+
+I document the purpose and progress of my work as a core part of my problem-solving approach.
+
+My goal is to craft solutions that are effective, accessible, and enjoyable to use.
+
+Thanks for stopping by! Let's connect and explore the world of technology and design together. 🚀
