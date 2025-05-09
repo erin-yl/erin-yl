@@ -13,4 +13,4 @@ I document the purpose and progress of my work as a core part of my problem-solv
 
 My goal is to craft solutions that are effective, accessible, and enjoyable to use.
 
-Thanks for stopping by! Let's connect and explore the world of technology and design together. 🚀
+Thanks for stopping by! Let's connect and explore the intersection of technology and design together. 🚀
