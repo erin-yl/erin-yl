@@ -9,6 +9,6 @@ My work focuses on:
 - Streamlining complex workflows
 - Engaging customers through thoughtful design
 
-My goal is to craft solutions that are effective, accessible, and enjoyable to use.
+My goal is to craft solutions that are effective, accessible, and delightful to use.
 
 Thanks for stopping by! Let's connect and explore the intersection of technology and design together. 💡
