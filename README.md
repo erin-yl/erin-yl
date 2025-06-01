@@ -7,7 +7,7 @@ I'm a UX Engineer/Designer specializing in designing self-service support platfo
 My work focuses on:
 - Creating intuitive user experiences
 - Streamlining complex workflows
-- Engaging customers through thoughtful design
+- Engaging users through thoughtful design
 
 My goal is to craft solutions that are effective, accessible, and delightful to use.
 
