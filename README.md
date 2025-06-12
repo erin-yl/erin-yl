@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a UX Engineer/Designer specializing in designing self-service support platforms for enterprise products. I’ve also been exploring AI-powered help tools.
+I'm a UX Engineer/Designer specializing in designing self-service support tools for enterprise products. I’ve also been exploring AI-powered assistants.
 
 My work focuses on:
 - Creating intuitive user experiences
