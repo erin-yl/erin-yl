@@ -9,6 +9,6 @@ My work focuses on:
 - Streamlining complex workflows
 - Engaging users through interactive design
 
-My goal is to craft solutions that are effective, accessible, and delightful to use.
+I love crafting solutions that are effective, accessible, and delightful to use.
 
 Thanks for stopping by! Let's connect and explore the intersection of technology and design together. 💡
